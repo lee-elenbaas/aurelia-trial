@@ -4,7 +4,8 @@ System.config({
     "github:*": "jspm_packages/github/*.js",
     "npm:*": "jspm_packages/npm/*.js",
     "aurelia-skeleton-navigation/*": "lib/*.js"
-  }
+  },
+  "baseUrl": "dist"
 });
 
 System.config({
@@ -247,4 +248,3 @@ System.config({
   }
 });
 
-System.baseUrl = 'dist'; //NOTE: You can move this into the config.js file, if you like.
