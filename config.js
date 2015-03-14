@@ -247,3 +247,4 @@ System.config({
   }
 });
 
+System.baseUrl = 'dist'; //NOTE: You can move this into the config.js file, if you like.
