@@ -5,7 +5,8 @@ Initial trial with aurelia.io to see how i like it
 
 Milestones:
 
-1. Get first page working
+1. Get skeletop sample app working
+2. Get page with state as route selection
 
 ----- Skeleton readme below ----------
 
